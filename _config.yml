@@ -9,7 +9,7 @@
 title: Wesley's Project Site
 email: wesleyhitson106@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Wesley's project site.
+  This site contains links to my various projects. Thanks for looking!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: I don't have a twitter
